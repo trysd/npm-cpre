@@ -1,3 +1,3 @@
-import { Gitcp } from './gitcp';
+import { Cpre } from './cpre';
 
-export default Gitcp;
+export default Cpre;

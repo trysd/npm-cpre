@@ -1,21 +1,21 @@
 /*!
- * Gitcp JavaScript Library v0.0.0
- * 
+ * Cpre JavaScript Library v0.0.1
+ * https://github.com/trysd/npm-cpre
  * Released under the MIT license
  *
- * Date: 2023-01-25T05:45Z
+ * Date: 2023-01-25T06:09Z
  */
-var Gitcp = (function () {
+var Cpre = (function () {
     'use strict';
 
-    var Gitcp = /** @class */ (function () {
-        function Gitcp() {
-            console.log("this is gitcp");
+    var Cpre = /** @class */ (function () {
+        function Cpre() {
+            console.log("this is cpre");
         }
-        return Gitcp;
+        return Cpre;
     }());
 
-    return Gitcp;
+    return Cpre;
 
 })();
-//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZ2l0Y3AuanMiLCJzb3VyY2VzIjpbIi4uL3NyYy9naXRjcC50cyJdLCJzb3VyY2VzQ29udGVudCI6WyJleHBvcnQgY2xhc3MgR2l0Y3Age1xuXG4gIGNvbnN0cnVjdG9yKCkge1xuICAgIGNvbnNvbGUubG9nKFwidGhpcyBpcyBnaXRjcFwiKTtcbiAgfVxuXG59XG4iXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7OztBQUFBLFFBQUEsS0FBQSxrQkFBQSxZQUFBO0lBRUUsSUFBQSxTQUFBLEtBQUEsR0FBQTtJQUNFLFFBQUEsT0FBTyxDQUFDLEdBQUcsQ0FBQyxlQUFlLENBQUMsQ0FBQztTQUM5QjtRQUVILE9BQUMsS0FBQSxDQUFBO0lBQUQsQ0FBQyxFQUFBOzs7Ozs7OzsifQ==
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZ2l0Y3AuanMiLCJzb3VyY2VzIjpbIi4uL3NyYy9jcHJlLnRzIl0sInNvdXJjZXNDb250ZW50IjpbImV4cG9ydCBjbGFzcyBDcHJlIHtcblxuICBjb25zdHJ1Y3RvcigpIHtcbiAgICBjb25zb2xlLmxvZyhcInRoaXMgaXMgY3ByZVwiKTtcbiAgfVxuXG59XG4iXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7OztBQUFBLFFBQUEsSUFBQSxrQkFBQSxZQUFBO0lBRUUsSUFBQSxTQUFBLElBQUEsR0FBQTtJQUNFLFFBQUEsT0FBTyxDQUFDLEdBQUcsQ0FBQyxjQUFjLENBQUMsQ0FBQztTQUM3QjtRQUVILE9BQUMsSUFBQSxDQUFBO0lBQUQsQ0FBQyxFQUFBOzs7Ozs7OzsifQ==
