@@ -1,4 +1,4 @@
-export class Gitcp {
+export class Cpre {
   constructor();
 }
 

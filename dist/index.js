@@ -1,9 +1,9 @@
 /*!
- * Cpre JavaScript Library v0.0.1
+ * Cpre JavaScript Library v0.0.2
  * https://github.com/trysd/npm-cpre
  * Released under the MIT license
  *
- * Date: 2023-01-25T06:09Z
+ * Date: 2023-01-25T08:35Z
  */
 'use strict';
 
